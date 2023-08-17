@@ -33,7 +33,7 @@ e exiba a média das idades.
 9. Escreva um programa que exiba os números primos entre 1 e
 100.
 
-10. Faça um programa que leia um número e exiba a tabuada
+10 . Faça um programa que leia um número e exiba a tabuada
 desse número até o valor 10.
 
 ------------------------------------------------------------------------------------------------------------

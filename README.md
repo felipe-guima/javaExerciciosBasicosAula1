@@ -1,5 +1,5 @@
 
-# O projeto tem como função responder os exercicos abaixo com liguagem Java, são exercios de logica para revisar conceitos fundamentais de linguagem de programação em geral, como dados primitivos, variaveis, condicionais e loops de repetição.
+### O projeto tem como função responder os exercicos abaixo com liguagem Java, são exercios de logica para revisar conceitos fundamentais de linguagem de programação em geral, como dados primitivos, variaveis, condicionais e loops de repetição.
 
 Estou usando a JVM 17 LTS para compilar o codigo.
 

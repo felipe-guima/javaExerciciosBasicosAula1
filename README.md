@@ -1,8 +1,7 @@
 
-## O projeto tem como função responder os exercicos abaixo com liguagem Java, são exercios de logica para revisar conceitos fundamentais de linguagem de programação em geral, como dados primitivos, variaveis, condicionais e loops de repetição.
+# O projeto tem como função responder os exercicos abaixo com liguagem Java, são exercios de logica para revisar conceitos fundamentais de linguagem de programação em geral, como dados primitivos, variaveis, condicionais e loops de repetição.
 
 Estou usando a JVM 17 LTS para compilar o codigo.
-
 
 Exercícios
 
@@ -32,7 +31,7 @@ e exiba a média das idades.
 
 9. Escreva um programa que exiba os números primos entre 1 a 100 no terminal.
 
-10 . Faça um programa que leia um número e exiba a tabuada
+10. Faça um programa que leia um número e exiba a tabuada
 desse número até o valor 10.
 
 ------------------------------------------------------------------------------------------------------------

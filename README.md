@@ -30,8 +30,7 @@ sequência de Fibonacci até o N-ésimo termo.
 8. Crie um programa que leia o nome e a idade de várias pessoas
 e exiba a média das idades.
 
-9. Escreva um programa que exiba os números primos entre 1 e
-100.
+9. Escreva um programa que exiba os números primos entre 1 a 100 no terminal.
 
 10 . Faça um programa que leia um número e exiba a tabuada
 desse número até o valor 10.
